@@ -19,3 +19,5 @@ This is a Python project that runs a web application using Uvicorn.
 4. **Running the Application**
    ```bash
    uvicorn main:app --reload
+   
+You can try out the endpoints on the url http://127.0.0.1:8000/docs.
