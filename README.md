@@ -19,7 +19,3 @@ This is a Python project that runs a web application using Uvicorn.
 4. **Running the Application**
    ```bash
    uvicorn main:app --reload
-   
-
-
-
